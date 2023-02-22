@@ -1,7 +1,7 @@
 # Steam账号切换器
 
 读取本地已登录过的steam账号 实现免密登录\
-下载地址:
+1.1.0-1.2.1版本 下载地址:
 https://github.com/LonGgGgGgGgCN/SteamAccountSwitcher/releases
 
 
@@ -23,6 +23,6 @@ https://github.com/LonGgGgGgGgCN/SteamAccountSwitcher/releases
 
 ## 声明
 
-此程序来自 [LonGgGgGgGg](https://github.com/LonGgGgGgGgCN)
+此程序来自 [LonGgGgGgGg](https://github.com/LonGgGgGgGg-ithub)
 
 Steam是Valve公司的版权，Valve公司与本软件及其作者无关，本软件不涉及任何破解Steam账号或密码的功能
